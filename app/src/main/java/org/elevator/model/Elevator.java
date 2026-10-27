@@ -29,7 +29,15 @@ public class Elevator {
         return direction;
     }
 
-    public ElevatorState getState() {
+    public void setDirection(Direction direction) {
+        this.direction = direction;
+    }
+
+    public ElevatorState getElevatorState() {
         return state;
+    }
+
+    public void setElevatorState(ElevatorState state) {
+        this.state = state;
     }
 }
