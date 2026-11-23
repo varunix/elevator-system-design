@@ -75,7 +75,7 @@ Design patterns will be introduced only where they provide a meaningful benefit.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/elevator-system-design.git
+git clone https://github.com/varunix/elevator-system-design.git
 cd elevator-system-design
 ```
 
